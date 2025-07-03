@@ -40,8 +40,7 @@ DaisyUI – Beautiful component library for Tailwind
 
 
 ## ✅ Additions to Consider
-1. `.gitignore`
-```gitignore
+gitignore
 node_modules
 dist
 
@@ -58,3 +57,13 @@ package.json (if using Tailwind CLI)
     "autoprefixer": "^10.4.0"
   }
 }
+
+## How to Run This
+Initialize project:
+npm init -y
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init
+
+Run Tailwind build: npm run build
+
+Open src/index.html in your browser.
