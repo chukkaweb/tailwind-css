@@ -40,18 +40,18 @@ gitignore
 node_modules
 dist
 
-package.json (if using Tailwind CLI)
-{
-  "name": "tailwindcss-practice",
-  "scripts": {
-    "build": "npx tailwindcss -i ./src/styles.css -o ./dist/output.css --watch"
-  },
-  "devDependencies": {
-    "tailwindcss": "^3.4.0",
-    "postcss": "^8.4.0",
-    "autoprefixer": "^10.4.0"
-  }
-}
+- package.json (if using Tailwind CLI)
+- {
+ -  "name": "tailwindcss-practice",
+ -  "scripts": {
+ -    "build": "npx tailwindcss -i ./src/styles.css -o ./dist/output.css --watch"
+ -  },
+-   "devDependencies": {
+  -   "tailwindcss": "^3.4.0",
+ -    "postcss": "^8.4.0",
+   -  "autoprefixer": "^10.4.0"
+ -  }
+- }
 
 ## How to Run This
 - Initialize project:
