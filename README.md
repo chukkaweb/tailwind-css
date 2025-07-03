@@ -3,7 +3,7 @@ This repository contains Tailwind CSS-based UI components and sample projects fo
 ## 📦 Tech Stack
 - [Tailwind CSS](https://tailwindcss.com)
 - HTML
-- [PostCSS] (https://postcss.org/) (for building Tailwind)
+- [PostCSS](https://postcss.org/) (for building Tailwind)
 
 ## 📁 Folder Structure
 - tailwind-css/
