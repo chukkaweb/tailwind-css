@@ -6,17 +6,17 @@ This repository contains Tailwind CSS-based UI components and sample projects fo
 - PostCSS (for building Tailwind)
 
 ## 📁 Folder Structure
-tailwind-css/
-├── src/
-│ ├── components/ # Reusable components
-│ ├── pages/ # Sample page layouts
-│ ├── styles.css # Tailwind directives
-│ └── index.html
-├── dist/ # Compiled CSS output
-├── tailwind.config.js # Tailwind config
-├── postcss.config.js # PostCSS config
-├── package.json
-└── README.md
+- tailwind-css/
+- ├── src/
+- │ ├── components/ # Reusable components
+- │ ├── pages/ # Sample page layouts
+- │ ├── styles.css # Tailwind directives
+- │ └── index.html
+- ├── dist/ # Compiled CSS output
+- ├── tailwind.config.js # Tailwind config
+- ├── postcss.config.js # PostCSS config
+- ├── package.json
+- └── README.md
 
 
 ## 🛠️ Getting Started
