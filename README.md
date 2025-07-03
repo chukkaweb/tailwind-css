@@ -18,7 +18,6 @@ This repository contains Tailwind CSS-based UI components and sample projects fo
 - ├── package.json
 - └── README.md
 
-
 ## 🛠️ Getting Started
 ### 1. Clone the repo
 git clone https://github.com/chukkaweb/tailwind-css.git
@@ -29,21 +28,17 @@ npm install
 
 ## Run Tailwind in watch mode
 npx tailwindcss -i ./src/styles.css -o ./dist/output.css --watch
-
-
  Open index.html in your browser
-
+ 
 ## Learn More
 Tailwind CSS Docs
 Tailwind Play
 DaisyUI – Beautiful component library for Tailwind
 
-
 ## ✅ Additions to Consider
 gitignore
 node_modules
 dist
-
 
 package.json (if using Tailwind CLI)
 {
@@ -59,11 +54,10 @@ package.json (if using Tailwind CLI)
 }
 
 ## How to Run This
-Initialize project:
-npm init -y
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init
+- Initialize project:
+- npm init -y
+- npm install -D tailwindcss postcss autoprefixer
+- npx tailwindcss init
 
-Run Tailwind build: npm run build
-
-Open src/index.html in your browser.
+- Run Tailwind build: npm run build
+- Open src/index.html in your browser.
